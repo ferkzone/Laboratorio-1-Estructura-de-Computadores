@@ -33,5 +33,3 @@ Cada script está comentado línea por línea para facilitar su comprensión.
 ## 🛠️ Requisitos  
 - **MARS 4.5** (MIPS Assembler and Runtime Simulator).  
 - Java instalado para ejecutar el archivo `.jar` de MARS.  
-
----
