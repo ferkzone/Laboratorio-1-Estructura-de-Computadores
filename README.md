@@ -1,7 +1,5 @@
 # Laboratorio 1: Simulación y optimización de un programa en un procesador escalar segmentado  
 
----
-
 ## 📌 Descripción  
 Este repositorio contiene los programas desarrollados en **Assembly MIPS** para el **Laboratorio #1**, ejecutados en el simulador **MARS 4.5**.  
 
