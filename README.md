@@ -35,10 +35,3 @@ Cada script está comentado línea por línea para facilitar su comprensión.
 - Java instalado para ejecutar el archivo `.jar` de MARS.  
 
 ---
-
-## 📎 Informe  
-El detalle completo de la práctica (introducción, desarrollo, capturas de compilación/ejecución y conclusiones) se encuentra en el archivo:  
-
-👉 [Informe_Laboratorio1.pdf](./Informe_Laboratorio1.pdf)  
-
----
