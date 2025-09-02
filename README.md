@@ -1,12 +1,5 @@
 # Laboratorio 1: Simulación y optimización de un programa en un procesador escalar segmentado  
 
-**Autor:** Juan Felipe Tarazona Gonzalez  
-**Universidad:** Fundación Universitaria Internacional de la Rioja  
-**Facultad:** Ingeniería Informática  
-**Asignatura:** Estructura de Computadores  
-**Profesor:** Deivis Eduard Ramirez Martinez  
-**Fecha:** Septiembre 2, 2025  
-
 ---
 
 ## 📌 Descripción  
